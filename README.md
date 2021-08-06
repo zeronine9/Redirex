@@ -4,3 +4,6 @@ A python tool for Open redirect Path fragments
 
 # Usage 🦖 
 python3 redirex.py -f urlsfile.txt -p payloads.txt
+
+##results :- 
+the result will be in a txt file "result.txt"
