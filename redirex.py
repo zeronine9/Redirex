@@ -11,7 +11,7 @@ logo = '''   __          _ _         __  __
 \/ \_/\___|\__,_|_|_|  \___/_/\_\
 
                             
-                coded by Zahir Tariq'''
+                coded by @ZahirTariq3'''
 
 print(Fore.BLUE + logo)
 
